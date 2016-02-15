@@ -5,26 +5,38 @@
 A simple develop iOS Custom iBeacon and used Estimote App detection iBeacon signal, Use device is iPad(broadcasting iBeacon signals) and Android phone(Estimote App), of course, I use AutoLayout to make various devices version.
 
 
-- 1.Set left Time, and Start timer. Of course you can Previously or timing set reminders music.
+- 1.Custom iBeacon "UUID", "Major", "Minor" and "Device Name".
 
-    `// If you set 2 minute.`
-
-
-- 2.You can select "Stop", "Continue" and "Remind".
-
-    `// You can cancel the reminder or stop timer.`
+    `// If you set "UUID" = "15F85CEC-60E0-430C-A17F-CB...", "Major" = "77", "Minor" = "7" and "Device Name" = "helloWorld"`
 
 
-- 3.Time Now.
+- 2.Broadcasting iBeacon signal.
 
-    `// Show message in the screen.`
+    `// Start.`
+    
 
+- 3.Use Android Phone open Estimote App searching iBeacon, check detected iBeacon information.
+
+    `// Select detection iBeacon.`
+
+
+- 4.Try modify  iBeacon "UUID", "Major", "Minor" and "Device Name" then Searching detected iBeacon information.
+
+    `// modified and Broadcasting iBeacon signal, check information.`
+
+
+- 5.Use Bluetooth Device search "Device Name" and understand the differences between the iBeacon Devcie and Bluetooth Device.
+
+    `// Search "Bluetooth Device" get "Device Name" and Search "iBeacon Device" get information.`
 
 
 ##Screen Image：
 
-<img src="timer1.png" width="270" height="400" alt="Black" />
-<img src="timer2.png" width="270" height="400" alt="Black" />
-<img src="timer3.png" width="270" height="400" alt="Black" />
-<img src="timer4.png" width="270" height="400" alt="Black" />
-<img src="timer5.png" width="270" height="400" alt="Black" />
+<img src="image4.png" width="270" height="400" alt="Black" />
+<img src="image5.png" width="270" height="400" alt="Black" />
+<img src="image6.png" width="270" height="400" alt="Black" />
+<img src="image7.png" width="270" height="400" alt="Black" />
+<img src="image8.png" width="270" height="400" alt="Black" />
+
+//
+
