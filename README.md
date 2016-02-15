@@ -5,6 +5,7 @@
 
 A simple develop iOS Custom iBeacon and used Estimote App detection iBeacon signal, Use device is iPad(broadcasting iBeacon signals) and Android phone(Estimote App), of course, I use AutoLayout to make various devices version.
 
+Please open Bluetooth.
 
 - 1.Custom iBeacon "UUID", "Major", "Minor" and "Device Name".
 
