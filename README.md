@@ -32,11 +32,8 @@ A simple develop iOS Custom iBeacon and used Estimote App detection iBeacon sign
 
 ##Screen Image：
 
-<img src="image4.png" width="270" height="400" alt="Black" />
-<img src="image5.png" width="270" height="400" alt="Black" />
-<img src="image6.png" width="270" height="400" alt="Black" />
-<img src="image7.png" width="270" height="400" alt="Black" />
-<img src="image8.png" width="270" height="400" alt="Black" />
-
-//
-
+<img src="image4.jpg" width="270" height="400" alt="Black" />
+<img src="image5.jpg" width="270" height="400" alt="Black" />
+<img src="image6.jpg" width="270" height="400" alt="Black" />
+<img src="image7.jpg" width="270" height="400" alt="Black" />
+<img src="image8.jpg" width="270" height="400" alt="Black" />
