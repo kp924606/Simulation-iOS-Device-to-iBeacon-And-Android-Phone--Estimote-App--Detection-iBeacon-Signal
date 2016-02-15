@@ -1,6 +1,6 @@
-<img src="logo.png" width="270" height="270" alt="Black" align="intermediate" />
+
 # Simulation iOS Device to iBeacon And Android Phone (Estimote App) Detection iBeacon Signal
-## Introduction：
+## Introduction： <img src="logo.png" width="270" height="270" alt="Black" align="intermediate" />
 ###**[Demonstration Videos](https://youtu.be/feoaque2Mqw)**  (https://youtu.be/feoaque2Mqw)
 
 A simple develop iOS Custom iBeacon and used Estimote App detection iBeacon signal, Use device is iPad(broadcasting iBeacon signals) and Android phone(Estimote App), of course, I use AutoLayout to make various devices version.
