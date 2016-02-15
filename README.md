@@ -1,4 +1,4 @@
-<img src="logo.png" width="270" height="270" alt="Black" />
+<img src="logo.png" width="270" height="270" alt="Black" align="intermediate" />
 # Simulation iOS Device to iBeacon And Android Phone (Estimote App) Detection iBeacon Signal
 ## Introduction：
 ###**[Demonstration Videos](https://youtu.be/feoaque2Mqw)**  (https://youtu.be/feoaque2Mqw)
